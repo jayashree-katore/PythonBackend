@@ -1,0 +1,3 @@
+hi
+Welcome to Git.
+This is testing file for git.
