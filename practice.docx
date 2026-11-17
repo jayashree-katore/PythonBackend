@@ -1,0 +1,9 @@
+Git is version control software used to keep track of file and its changes.
+Repository is a folder which contains files that git track.
+Branch is a sub-space which contains copy of main repo.
+List of commands : 
+1. git init
+2. git status
+3. git add . / git add "file name"
+4. git commit -m "message"
+5. git log
