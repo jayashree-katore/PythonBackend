@@ -2,4 +2,4 @@ hi
 Welcome to Git.
 This is testing file for git.
 
-run command git -v to confirm git installec or not.
+run command git -v to confirm git installed or not.
