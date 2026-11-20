@@ -7,3 +7,6 @@ List of commands :
 3. git add . / git add "file name"
 4. git commit -m "message"
 5. git log
+
+
+* Branches : is a place where we can play around code without disturbing the main code/source.
