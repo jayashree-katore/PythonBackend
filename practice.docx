@@ -7,3 +7,11 @@ List of commands :
 3. git add . / git add "file name"
 4. git commit -m "message"
 5. git log
+
+Branches commands : 
+git branch ->list of Branches
+git branch branch-name - > create new branch
+git switch/checkout branchname - > to switch between Branches
+
+
+changes made by shivansh
